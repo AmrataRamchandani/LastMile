@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "435836787314",
+    "firebase_url": "https://lastmile-4bd4b.firebaseio.com",
+    "project_id": "lastmile-4bd4b",
+    "storage_bucket": "lastmile-4bd4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435836787314:android:1afeac0dc35baa07",
+        "android_client_info": {
+          "package_name": "com.example.adityachondke.lastmile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435836787314-bshh1p96ac7dkrg9ip6st78m20quck3j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.adityachondke.lastmile",
+            "certificate_hash": "05cd99afe89347c5d108d91d893f5be916489a1c"
+          }
+        },
+        {
+          "client_id": "435836787314-h35ur00d253cmlfakhnkhgmshauq0e03.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYNfxo0JeyZTOe1IzwYbzkTKwE90kRvRw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "435836787314-h35ur00d253cmlfakhnkhgmshauq0e03.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

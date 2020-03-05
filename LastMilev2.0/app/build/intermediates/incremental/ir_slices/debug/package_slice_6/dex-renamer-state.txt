@@ -1,0 +1,4 @@
+#Thu Nov 29 14:37:25 IST 2018
+base.0=C\:\\Users\\Aditya Chondke\\AndroidStudioProjects\\LastMile\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\6
+path.0=classes.dex
+renamed.0=classes.dex
